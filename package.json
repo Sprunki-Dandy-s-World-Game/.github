@@ -1,0 +1,24 @@
+{
+  "name": "sprunki-dandys-world",
+  "version": "1.0.0",
+  "description": "A fun and addictive rhythm game blending music, art, and storytelling.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/sprunki-dandys-world.git"
+  },
+  "keywords": [
+    "game",
+    "music",
+    "rhythm",
+    "Incredibox",
+    "fan-made"
+  ],
+  "author": "Sprunki Development Team",
+  "license": "MIT",
+  "dependencies": {}
+}
